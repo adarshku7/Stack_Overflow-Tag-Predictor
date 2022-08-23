@@ -189,6 +189,7 @@ Logistic Regression with OneVsRest Classifier (Loss - Log & L1 Reg)
 
 accuracy : 0.2371
 macro f1 score : 0.3505517681526346
+
 micro f1 scoore : 0.4800174710635511
 
 
@@ -199,10 +200,21 @@ Accuracy : 0.2481
 Hamming loss  0.0027434
 
 Micro-average quality numbers
-Precision: 0.7464, Recall: 0.3682, F1-measure: 0.4931
+Precision: 0.7464, 
+Recall: 0.3682, 
+F1-measure: 0.4931
 
 Macro-average quality numbers
-Precision: 0.4728, Recall: 0.2774, F1-measure: 0.3242
+Precision: 0.4728,
+Recall: 0.2774,
+F1-measure: 0.3242
+
+
+# Summary
+
+![Screenshot 2022-08-23 180704](https://user-images.githubusercontent.com/33951358/186159797-cdf6f2ed-dedd-4eaf-b15e-2a45eb393b9a.png)
+
+
 
 
 # Observation :
